@@ -1,0 +1,46 @@
+header{
+    display: flex;
+    background-color: beige;
+    border-style: inset;
+    border-width: 15px 31px;
+    border-color: cadetblue;
+
+    justify-content: center;
+}
+
+#logo-etat-civil{
+    background-color: burlywood;
+}
+#logo-etat-civil img{
+    transform: rotate(38deg);
+    left: 700px;
+    top: 59px;
+    width: 130px;
+}
+#gras{
+    font-weight: bolder;
+    font-size: 25px;
+}
+#photo img{
+    width: 120px;
+    
+    border-style: solid;
+    border-width: 9px;
+    border-color: antiquewhite;
+}
+main{
+    
+    border-color: brown;
+    border-style: solid;
+    border-width: 4px;
+}
+footer{
+    color: white;
+    background-color: brown;
+    height: 60px;
+    display: flex;
+   
+}
+#etat-civil{
+    width: 400px;
+}
